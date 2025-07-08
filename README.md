@@ -38,6 +38,7 @@ com.quantumbookstore
 ├── repo                # BookRepository: in-memory storage
 ├── service             # BookstoreService: core business logic
 ├── services            # NotificationService interface + implementations
+├── exceptions          #Custom exception 
 └── Main.java
 ```
 
